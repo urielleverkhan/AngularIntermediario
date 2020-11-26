@@ -209,6 +209,16 @@
       "urlImdb": "",
       "genero": "Terror",
       "id": 21
+    },
+    {
+      "titulo": "Akira",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BM2ZiZTk1ODgtMTZkNS00NTYxLWIxZTUtNWExZGYwZTRjODViXkEyXkFqcGdeQXVyMTE2MzA3MDM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "1991-08-09T03:00:00.000Z",
+      "descricao": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath who can only be stopped by two teenagers and a group of psychics.",
+      "nota": 8,
+      "urlImdb": "https://www.imdb.com/title/tt0094625/",
+      "genero": "Ficção Cientifica",
+      "id": 22
     }
   ]
 }
