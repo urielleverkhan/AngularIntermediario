@@ -111,104 +111,14 @@
       "id": 11
     },
     {
-      "titulo": "Um Sonho de Liberdade",
-      "urlFoto": "https://www.imdb.com/title/tt0111161/mediaviewer/rm10105600?ref_=tt_ov_i",
-      "dtLancamento": "1995-03-17T03:00:00.000Z",
-      "descricao": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-      "nota": 9.3,
-      "urlImdb": "https://www.imdb.com/title/tt0111161/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=AV41YQNJ8MY6TZ4DBF3G&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_1",
-      "genero": "Drama",
-      "id": 12
-    },
-    {
-      "titulo": "Teste",
+      "titulo": "Teste 333",
       "urlFoto": "",
       "dtLancamento": "2020-11-24T03:00:00.000Z",
       "descricao": "",
       "nota": 0,
-      "urlImdb": "",
+      "urlImdb": null,
       "genero": "Terror",
       "id": 13
-    },
-    {
-      "titulo": "Teste2",
-      "urlFoto": "",
-      "dtLancamento": "2020-11-23T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlImdb": "",
-      "genero": "Terror",
-      "id": 14
-    },
-    {
-      "titulo": "Teste2",
-      "urlFoto": "",
-      "dtLancamento": "2020-11-23T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlImdb": "",
-      "genero": "Terror",
-      "id": 15
-    },
-    {
-      "titulo": "TEste3",
-      "urlFoto": "",
-      "dtLancamento": "2020-11-23T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlImdb": "",
-      "genero": "Terror",
-      "id": 16
-    },
-    {
-      "titulo": "Teste 4",
-      "urlFoto": "",
-      "dtLancamento": "2020-11-15T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlImdb": "",
-      "genero": "Comédia",
-      "id": 17
-    },
-    {
-      "titulo": "Teste5",
-      "urlFoto": "",
-      "dtLancamento": "2020-11-02T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlImdb": "",
-      "genero": "Comédia",
-      "id": 18
-    },
-    {
-      "titulo": "Teste5",
-      "urlFoto": "",
-      "dtLancamento": "2020-11-11T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlImdb": "",
-      "genero": "Ficção Cientifica",
-      "id": 19
-    },
-    {
-      "titulo": "Teste6",
-      "urlFoto": "",
-      "dtLancamento": "2020-11-04T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlImdb": "",
-      "genero": "Ficção Cientifica",
-      "id": 20
-    },
-    {
-      "titulo": "teste 7",
-      "urlFoto": "",
-      "dtLancamento": "2020-11-12T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlImdb": "",
-      "genero": "Terror",
-      "id": 21
     },
     {
       "titulo": "Akira",
